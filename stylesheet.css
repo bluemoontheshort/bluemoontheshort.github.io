@@ -43,9 +43,14 @@ a:hover {
 }
 
 @media screen and (max-width: 1000px) {
-  footer {
-    font-size: 2em;
+  body {
+  	background: red;
   }
+
+  footer {
+    font-size: 1.2em;
+  }
+
   .video-bg {
   	height: 100vh;
   }
