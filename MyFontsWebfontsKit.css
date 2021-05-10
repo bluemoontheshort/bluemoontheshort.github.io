@@ -19,10 +19,9 @@
 
 
 /* @import must be at top of file, otherwise CSS will not work */
-@import url("//hello.myfonts.net/count/3e5b9d");
   
 @font-face {
   font-family: "WindsorPro-Bold";
-  src: url('fonts/WindsorProBold/font.woff2') format('woff2'), url('fonts/WindsorProBold/font.woff') format('woff');
+  src: url('fonts/font.woff2') format('woff2'), url('fonts/font.woff') format('woff');
 }
 
