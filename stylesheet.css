@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+}
+
+.video-bg {
+	width: 100%;
+	height: 100%;
+}
+
+footer {
+	color: blue;
+    position: fixed;
+    bottom: 7em;
+    left: 1.4em;
+    right: 0;
+    z-index: 999;
+    font-family: WindsorPro-Bold;
+} 
