@@ -45,10 +45,10 @@ a:hover {
 	transition: opacity .5s;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 900px) {
   
   body {
-  	background: yellow;
+  	background: orange;
   	display: flex;
   }
 
@@ -57,7 +57,7 @@ a:hover {
   }
 
   .video-bg {
-  	height: 95vh;
+  	height: 75%;
   	align-items: center;
   }
 }
