@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4086685, 2021-05-10T15:01:37-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: WindsorPro-Bold by Monotype
+ * URL: https://www.myfonts.com/fonts/mti/windsor-mt/com-bold/
+ * Copyright: Copyright © 2006 - 2018 The Monotype Corporation. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3e5b9d");
+  
+@font-face {
+  font-family: "WindsorPro-Bold";
+  src: url('fonts/WindsorProBold/font.woff2') format('woff2'), url('fonts/WindsorProBold/font.woff') format('woff');
+}
+
