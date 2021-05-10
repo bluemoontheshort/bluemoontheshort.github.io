@@ -44,15 +44,18 @@ a:hover {
 }
 
 @media screen and (max-width: 1000px) {
+  
   body {
-  	background: green;
+  	background: blue;
+  	display: flex;
   }
 
   footer {
-    font-size: 1.5em;
+    font-size: 14px;
   }
 
   .video-bg {
   	height: 100vh;
+  	align-items: center;
   }
 }
