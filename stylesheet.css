@@ -32,8 +32,14 @@ footer {
     align-items: baseline;
 } 
 
-#IG {
+.social {
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon {
 	height: 1.2em;
+  padding-left: 1em;
 }
 
 a {
