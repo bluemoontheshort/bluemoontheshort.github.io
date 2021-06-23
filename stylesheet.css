@@ -30,10 +30,12 @@ footer {
     bottom: 3rem;
     z-index: 999;
     align-items: baseline;
-	
-	//temp hide footer
+
+	/*temp hide footer*/
 	display:none;
 } 
+
+
 
 .social {
   display: flex;
